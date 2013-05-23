@@ -1,0 +1,13 @@
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bin\Debug\resources.pri
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bin\Debug\AppxManifest.xml
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bin\Debug\WindowsStore.build.appxrecipe
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\priconfig.xml.intermediate
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\layout.resfiles.intermediate
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\resources.resfiles.intermediate
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\pri.resfiles.intermediate
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\priconfig.xml
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\layout.resfiles
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\resources.resfiles
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\pri.resfiles
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\LanguageQualifiers.txt
+C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bld\Debug\ProjectArchitectures.txt

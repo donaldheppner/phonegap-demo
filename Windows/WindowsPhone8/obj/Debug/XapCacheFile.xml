@@ -1,0 +1,22 @@
+﻿<xapCache source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="5/22/2013 9:26:24 PM">
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\obj\Debug\WindowsPhone8.dll" archivePath="WindowsPhone8.dll" lastWriteTime="5/22/2013 9:26:23 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\www\cordova-2.7.0.js" archivePath="www\cordova-2.7.0.js" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="5/22/2013 8:48:43 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="5/22/2013 8:48:18 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\www\images\cordova.png" archivePath="www\images\cordova.png" lastWriteTime="5/22/2013 8:48:24 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\www\index.html" archivePath="www\index.html" lastWriteTime="5/22/2013 8:48:43 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\config.xml" archivePath="config.xml" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\resources\notification-beep.wav" archivePath="resources\notification-beep.wav" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/22/2013 9:24:10 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="5/22/2013 8:00:53 PM" />
+  <file source="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsPhone8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="5/22/2013 9:24:10 PM" />
+</xapCache>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SILVERSURFER</Machine>
+    <WindowsUser>Donald</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B94C47D82820A88BCDD5363AD9D020C4FDAE70E5A9FC5A547BB4E6C5FF684015</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>966679da-57a3-4b5c-a9d2-6606b2ccf493_1.0.0.0_neutral__kbdm0j06kkr0p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>966679da-57a3-4b5c-a9d2-6606b2ccf493_kbdm0j06kkr0p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>966679da-57a3-4b5c-a9d2-6606b2ccf493</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Donald</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-23T01:27:23.731</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\cordova.js">
+      <PackagePath>cordova.js</PackagePath>
+      <Modified>2013-05-23T01:20:34.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\js\index.js">
+      <PackagePath>js\index.js</PackagePath>
+      <Modified>2013-05-23T00:00:53.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\cordova-2.7.0.js">
+      <PackagePath>cordova-2.7.0.js</PackagePath>
+      <Modified>2013-05-03T18:27:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\css\index.css">
+      <PackagePath>css\index.css</PackagePath>
+      <Modified>2013-05-23T00:33:32.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\images\cordova.png">
+      <PackagePath>images\cordova.png</PackagePath>
+      <Modified>2013-05-23T00:00:53.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-28T05:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-28T05:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-28T05:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-28T05:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2013-05-23T01:23:41.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-05-23T01:20:46.844</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
