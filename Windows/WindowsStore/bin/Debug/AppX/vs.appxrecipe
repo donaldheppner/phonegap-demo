@@ -5,7 +5,7 @@
     <WindowsUser>Donald</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>B94C47D82820A88BCDD5363AD9D020C4FDAE70E5A9FC5A547BB4E6C5FF684015</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>5141EF20E1AACBE433B3B6C0F67A40295A3FF63555360F70E73A864112A66122</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>966679da-57a3-4b5c-a9d2-6606b2ccf493_1.0.0.0_neutral__kbdm0j06kkr0p</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>966679da-57a3-4b5c-a9d2-6606b2ccf493_kbdm0j06kkr0p!App</RegisteredUserModeAppID>
     <RegisteredPackageID>966679da-57a3-4b5c-a9d2-6606b2ccf493</RegisteredPackageID>
@@ -16,13 +16,29 @@
     <AppXManifest Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-05-23T03:48:46.298</Modified>
+      <Modified>2013-05-23T05:31:34.026</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\index.css">
-      <PackagePath>css\index.css</PackagePath>
-      <Modified>2013-05-23T00:33:32.294</Modified>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\ajax-loader.gif">
+      <PackagePath>css\images\ajax-loader.gif</PackagePath>
+      <Modified>2013-04-10T19:57:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\icons-18-black.png">
+      <PackagePath>css\images\icons-18-black.png</PackagePath>
+      <Modified>2013-04-10T19:57:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\icons-18-white.png">
+      <PackagePath>css\images\icons-18-white.png</PackagePath>
+      <Modified>2013-04-10T19:57:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\icons-36-black.png">
+      <PackagePath>css\images\icons-36-black.png</PackagePath>
+      <Modified>2013-04-10T19:57:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\icons-36-white.png">
+      <PackagePath>css\images\icons-36-white.png</PackagePath>
+      <Modified>2013-04-10T19:57:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\images\cordova.png">
       <PackagePath>images\cordova.png</PackagePath>
@@ -48,21 +64,41 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-01-28T05:25:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\index.css">
+      <PackagePath>css\index.css</PackagePath>
+      <Modified>2013-05-23T00:33:32.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\jquery.mobile-1.3.1.css">
+      <PackagePath>css\jquery.mobile-1.3.1.css</PackagePath>
+      <Modified>2013-05-16T00:43:34.845</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2013-05-23T01:49:00.517</Modified>
+      <Modified>2013-05-23T05:21:57.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\jquery-mobile.html">
       <PackagePath>jquery-mobile.html</PackagePath>
-      <Modified>2013-05-23T01:43:23.864</Modified>
+      <Modified>2013-05-23T05:37:48.483</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\twitter.html">
-      <PackagePath>twitter.html</PackagePath>
-      <Modified>2013-05-23T01:43:14.982</Modified>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\demo.html">
+      <PackagePath>demo.html</PackagePath>
+      <Modified>2013-05-23T05:37:59.147</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\index.js">
       <PackagePath>js\index.js</PackagePath>
       <Modified>2013-05-23T00:00:53.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\jquery-2.0.0.js">
+      <PackagePath>js\jquery-2.0.0.js</PackagePath>
+      <Modified>2013-05-16T00:00:43.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\jquery.mobile-1.3.1.js">
+      <PackagePath>js\jquery.mobile-1.3.1.js</PackagePath>
+      <Modified>2013-05-12T16:57:03.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\demo.js">
+      <PackagePath>js\demo.js</PackagePath>
+      <Modified>2013-05-23T04:55:32.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\cordova.js">
       <PackagePath>cordova.js</PackagePath>
@@ -74,7 +110,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-05-23T03:48:46.164</Modified>
+      <Modified>2013-05-23T05:31:33.948</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

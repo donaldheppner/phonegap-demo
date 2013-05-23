@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
-        version   = "1.0.0">
+        id        = "com.donaldheppner.phonegapdemo"
+        version   = "0.1.0">
 
     <name>PhoneGap Demo</name>
 
     <description>
-        An example of using PhoneGap with jQuery and Twitter
+        An example of using PhoneGap and jQuery Mobile
     </description>
 
     <author href="http://donaldheppner.com" email="donald.heppner@gmail.com">
@@ -21,6 +21,7 @@
         The 'device' permission is required for the 'deviceready' event.
     -->
     <feature name="http://api.phonegap.com/1.0/device" />
+	<feature name="http://api.phonegap.com/1.0/camera" />
 
     <!--
         If you do not want any permissions to be added to your app, add the

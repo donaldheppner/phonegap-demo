@@ -53,8 +53,26 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="..\..\www\css\images\ajax-loader.gif">
+      <Link>css\images\ajax-loader.gif</Link>
+    </Content>
+    <Content Include="..\..\www\css\images\icons-18-black.png">
+      <Link>css\images\icons-18-black.png</Link>
+    </Content>
+    <Content Include="..\..\www\css\images\icons-18-white.png">
+      <Link>css\images\icons-18-white.png</Link>
+    </Content>
+    <Content Include="..\..\www\css\images\icons-36-black.png">
+      <Link>css\images\icons-36-black.png</Link>
+    </Content>
+    <Content Include="..\..\www\css\images\icons-36-white.png">
+      <Link>css\images\icons-36-white.png</Link>
+    </Content>
     <Content Include="..\..\www\css\index.css">
       <Link>css\index.css</Link>
+    </Content>
+    <Content Include="..\..\www\css\jquery.mobile-1.3.1.css">
+      <Link>css\jquery.mobile-1.3.1.css</Link>
     </Content>
     <Content Include="..\..\www\images\cordova.png">
       <Link>images\cordova.png</Link>
@@ -68,8 +86,17 @@
     <Content Include="..\..\www\js\index.js">
       <Link>js\index.js</Link>
     </Content>
-    <Content Include="..\..\www\twitter.html">
-      <Link>twitter.html</Link>
+    <Content Include="..\..\www\js\jquery-2.0.0.js">
+      <Link>js\jquery-2.0.0.js</Link>
+    </Content>
+    <Content Include="..\..\www\js\jquery.mobile-1.3.1.js">
+      <Link>js\jquery.mobile-1.3.1.js</Link>
+    </Content>
+    <Content Include="..\..\www\js\demo.js">
+      <Link>js\demo.js</Link>
+    </Content>
+    <Content Include="..\..\www\demo.html">
+      <Link>demo.html</Link>
     </Content>
     <Content Include="cordova.js" />
     <Content Include="cordova-2.7.0.js" />
@@ -83,6 +110,7 @@
     <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="css\images\" />
     <Folder Include="js\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />

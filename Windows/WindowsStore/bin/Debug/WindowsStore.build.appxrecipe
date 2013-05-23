@@ -13,8 +13,20 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\index.css">
-      <PackagePath>css\index.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\ajax-loader.gif">
+      <PackagePath>css\images\ajax-loader.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\icons-18-black.png">
+      <PackagePath>css\images\icons-18-black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\icons-18-white.png">
+      <PackagePath>css\images\icons-18-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\icons-36-black.png">
+      <PackagePath>css\images\icons-36-black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\images\icons-36-white.png">
+      <PackagePath>css\images\icons-36-white.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\images\cordova.png">
       <PackagePath>images\cordova.png</PackagePath>
@@ -35,17 +47,32 @@
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\index.css">
+      <PackagePath>css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\jquery.mobile-1.3.1.css">
+      <PackagePath>css\jquery.mobile-1.3.1.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\jquery-mobile.html">
       <PackagePath>jquery-mobile.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\twitter.html">
-      <PackagePath>twitter.html</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\demo.html">
+      <PackagePath>demo.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\index.js">
       <PackagePath>js\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\jquery-2.0.0.js">
+      <PackagePath>js\jquery-2.0.0.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\jquery.mobile-1.3.1.js">
+      <PackagePath>js\jquery.mobile-1.3.1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\demo.js">
+      <PackagePath>js\demo.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\cordova.js">
       <PackagePath>cordova.js</PackagePath>

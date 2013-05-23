@@ -1,14 +1,113 @@
 ﻿<!DOCTYPE html>
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <meta name="format-detection" content="telephone=no" />
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
-        <title>jQuery Mobile</title>
-        
-        <script type="text/javascript" src="cordova.js"></script>
-    </head>
-    <body>
-        jQuery Mobile
-    </body>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <title>jQuery Mobile</title>
+
+    <link href="css/jquery.mobile-1.3.1.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="cordova.js"></script>
+
+    <script src="js/jquery-2.0.0.js"></script>
+    <script src="js/jquery.mobile-1.3.1.js"></script>
+</head>
+<body>
+    <div id="home" data-role="page">
+        <div data-role="header">
+            <h1>jQuery Mobile!</h1>
+            <a href="index.html" data-icon="delete" rel="external" class="ui-btn-right">Exit</a>
+        </div>
+        <div data-role="content">
+            Welcome to jQuery Mobile.  Explore some controls:
+            <ul>
+                <li><a href="#buttons">Buttons</a></li>
+                <li><a href="#lists">Lists</a></li>
+                <li><a href="#filteredLists">Filtered Lists</a></li>
+                <li><a href="#banana" data-rel="dialog">Dialog Boxes</a></li>
+            </ul>
+        </div>
+        <div data-role="footer" data-position="fixed">
+            <h4><a href="index.html">Thank-you for visiting!</a></h4>
+        </div>
+    </div>
+
+    <div id="buttons" data-role="page">
+        <div data-role="header">
+            <a href="#home" data-role="button" data-icon="home">Home</a>
+            <h1>Buttons</h1>
+        </div>
+        <div data-role="content">
+            Inline buttons:
+            <a href="" data-role="button" data-inline="true">Yes</a>
+            <a href="" data-role="button" data-inline="true">No</a><br />
+
+            <a href="" data-role="button" data-theme="e">Themed Button</a>
+            <a href="" data-role="button" data-theme="c" data-icon="check" data-iconpos="right">Icons</a>
+        </div>
+        <div data-role="footer" data-position="fixed">
+            <a href="#buttons" data-mini="true" data-inline="true" data-corners="false">Buttons</a>
+            <a href="#lists" data-mini="true" data-inline="true" data-corners="false">Lists</a>
+            <a href="#filteredLists" data-mini="true" data-inline="true" data-corners="false">Filtered</a>
+        </div>
+    </div>
+
+    <div id="lists" data-role="page">
+        <div data-role="header">
+            <a href="#home" data-role="button" data-icon="home">Home</a>
+            <h1>Lists</h1>
+        </div>
+        <div data-role="content">
+            <ul data-role="listview" data-autodividers="true" data-inset="true">
+                <li>Apple</li>
+                <li>Bread</li>
+                <li><a href="#banana" data-rel="dialog">Banana</a></li>
+                <li>Blueberry</li>
+                <li>Cherry</li>
+                <li>Cranberry</li>
+                <li>Canteloupe</li>
+            </ul>
+        </div>
+        <div data-role="footer" data-position="fixed">
+            <a href="#buttons" data-mini="true" data-inline="true" data-corners="false">Buttons</a>
+            <a href="#lists" data-mini="true" data-inline="true" data-corners="false">Lists</a>
+            <a href="#filteredLists" data-mini="true" data-inline="true" data-corners="false">Filtered</a>
+        </div>
+    </div>
+
+    <div id="filteredLists" data-role="page">
+        <div data-role="header">
+            <a href="#home" data-role="button" data-icon="home">Home</a>
+            <h1>Filtered Lists</h1>
+        </div>
+        <div data-role="content">
+            <ul data-role="listview" data-autodividers="true" data-filter="true">
+                <li>Apple</li>
+                <li>Bread</li>
+                <li><a href="#banana" data-rel="dialog">Banana</a></li>
+                <li>Blueberry</li>
+                <li>Cherry</li>
+                <li>Cranberry</li>
+                <li>Canteloupe</li>
+            </ul>
+        </div>
+        <div data-role="footer" data-position="fixed">
+            <a href="#buttons" data-mini="true" data-inline="true" data-corners="false">Buttons</a>
+            <a href="#lists" data-mini="true" data-inline="true" data-corners="false">Lists</a>
+            <a href="#filteredLists" data-mini="true" data-inline="true" data-corners="false">Filtered</a>
+        </div>
+    </div>
+
+    <div id="banana" data-role="page">
+        <div data-role="header">
+            <h1>Bananas!</h1>
+        </div>
+        <div data-role="content">
+            Do they taste great?
+            <a href="#home" data-theme="b" data-role="button">Yes</a>
+            <a href="#home" data-role="button">No</a>
+        </div>
+    </div>
+</body>
 </html>
