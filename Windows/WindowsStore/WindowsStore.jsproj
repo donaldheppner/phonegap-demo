@@ -53,27 +53,25 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <Content Include="..\..\Common\www\cordova.js">
-      <Link>cordova.js</Link>
-    </Content>
-    <Content Include="..\..\Common\www\css\index.css">
+    <Content Include="..\..\www\css\index.css">
       <Link>css\index.css</Link>
     </Content>
-    <Content Include="..\..\Common\www\images\cordova.png">
+    <Content Include="..\..\www\images\cordova.png">
       <Link>images\cordova.png</Link>
     </Content>
-    <Content Include="..\..\Common\www\index.html">
+    <Content Include="..\..\www\index.html">
       <Link>index.html</Link>
     </Content>
-    <Content Include="..\..\Common\www\jquery-mobile.html">
+    <Content Include="..\..\www\jquery-mobile.html">
       <Link>jquery-mobile.html</Link>
     </Content>
-    <Content Include="..\..\Common\www\js\index.js">
+    <Content Include="..\..\www\js\index.js">
       <Link>js\index.js</Link>
     </Content>
-    <Content Include="..\..\Common\www\twitter.html">
+    <Content Include="..\..\www\twitter.html">
       <Link>twitter.html</Link>
     </Content>
+    <Content Include="cordova.js" />
     <Content Include="cordova-2.7.0.js" />
     <Content Include="images\logo.png" />
     <Content Include="images\smalllogo.png" />

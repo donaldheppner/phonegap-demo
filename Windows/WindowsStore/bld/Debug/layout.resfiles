@@ -1,10 +1,12 @@
 cordova.js
-css\index.css
-images\cordova.png
-index.html
-js\index.js
 cordova-2.7.0.js
 images\logo.png
 images\smalllogo.png
 images\splashscreen.png
 images\storelogo.png
+css\index.css
+images\cordova.png
+index.html
+jquery-mobile.html
+js\index.js
+twitter.html

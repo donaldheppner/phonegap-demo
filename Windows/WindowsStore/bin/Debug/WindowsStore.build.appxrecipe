@@ -13,19 +13,10 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\cordova.js">
-      <PackagePath>cordova.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\js\index.js">
-      <PackagePath>js\index.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\cordova-2.7.0.js">
-      <PackagePath>cordova-2.7.0.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\css\index.css">
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\css\index.css">
       <PackagePath>css\index.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\images\cordova.png">
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\images\cordova.png">
       <PackagePath>images\cordova.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\images\logo.png">
@@ -44,8 +35,23 @@
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\common\www\index.html">
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\index.html">
       <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\jquery-mobile.html">
+      <PackagePath>jquery-mobile.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\twitter.html">
+      <PackagePath>twitter.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\www\js\index.js">
+      <PackagePath>js\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\cordova.js">
+      <PackagePath>cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\cordova-2.7.0.js">
+      <PackagePath>cordova-2.7.0.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Donald\Documents\Projects\phonegap-demo\Windows\WindowsStore\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
